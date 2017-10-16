@@ -1,2 +1,2 @@
 sudo apt-get update -y
-sudo apt-get install -y git vim tmux zsh
+sudo apt-get install -y git vim ack-grep tmux zsh
